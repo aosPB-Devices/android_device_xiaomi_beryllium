@@ -690,4 +690,7 @@
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
     <dimen name="rounded_corner_radius_top">104px</dimen>
+
+    <!-- Whether the Poweroff Alarm needs to be active -->
+    <bool name="config_powerOffAlarmEnabled">true</bool>
 </resources>
